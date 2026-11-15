@@ -1,0 +1,11 @@
+
+***** Begin Label Report *****
+
+ Label in cell '5staOscDyCMOS layout cmosDy5StaOsc':
+  info: Assign pin label "Vin" at (0.0300, 3.6300) to layer `metal1_conn'.
+  info: Assign pin label "gnd!" at (8.2925, 0.0300) to layer `metal1_conn'.
+  info: Assign pin label "vdd!" at (8.2925, 7.2300) to layer `metal1_conn'.
+  info: Assign pin label "VOUT" at (16.5550, 3.6300) to layer `metal1_conn'.
+
+***** End of Label Report *****
+
