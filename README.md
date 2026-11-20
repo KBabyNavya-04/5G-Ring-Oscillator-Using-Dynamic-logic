@@ -61,7 +61,7 @@ The layout represents the physical implementation of the dynamic CMOS circuit, s
 ![Dynamic CMOS Layout](cmosDy_lay.png)
 
 ## 📂 Project Structure
-
+```text
 5G-Ring-Oscillator-Using-Dynamic-logic/
 │
 ├── 5stageringgcmosdy.png
@@ -74,7 +74,7 @@ The layout represents the physical implementation of the dynamic CMOS circuit, s
 ├── cmosDy_sym.png
 ├── cmosDynamic.zip
 └── README.md
-
+```
 
 ## 👩‍💻 Author
 
