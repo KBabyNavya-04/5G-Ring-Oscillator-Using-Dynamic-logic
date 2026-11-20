@@ -75,34 +75,14 @@ The layout represents the physical implementation of the dynamic CMOS circuit, s
 ├── cmosDy_sym.png
 ├── cmosDynamic.zip
 └── README.md
-##🚀 Applications
-5G Communication Systems
 
-High-Speed Clock Generation
 
-Frequency Generation Circuits
-
-VLSI Systems
-
-Integrated Circuit Design
-
-##🔮 Future Scope
-Optimize oscillation frequency.
-
-Reduce power consumption.
-
-Analyze propagation delay.
-
-Perform post-layout simulation.
-
-Compare dynamic CMOS and conventional CMOS implementations.
-
-##👩‍💻 Author
+**## 👩‍💻 Author**
 K. Baby Navya
 
 Electronics and Communication Engineering (ECE)
 
-⭐ Conclusion
+**⭐ Conclusion**
 This project demonstrates the design and implementation of a five-stage ring oscillator using dynamic CMOS logic. The schematic and physical layout provide practical understanding of transistor-level circuit design and VLSI implementation for high-speed applications.
 
 If you find this project useful, don't forget to ⭐ the repository!
