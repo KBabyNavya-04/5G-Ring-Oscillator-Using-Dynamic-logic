@@ -77,12 +77,12 @@ The layout represents the physical implementation of the dynamic CMOS circuit, s
 └── README.md
 
 
-**## 👩‍💻 Author**
+#👩‍💻 Author
 K. Baby Navya
 
 Electronics and Communication Engineering (ECE)
 
-**⭐ Conclusion**
+⭐ Conclusion
 This project demonstrates the design and implementation of a five-stage ring oscillator using dynamic CMOS logic. The schematic and physical layout provide practical understanding of transistor-level circuit design and VLSI implementation for high-speed applications.
 
 If you find this project useful, don't forget to ⭐ the repository!
