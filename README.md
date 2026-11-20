@@ -1,4 +1,3 @@
-
 # 5G Ring Oscillator Using Dynamic Logic
 
 ## 📌 Project Overview
@@ -41,74 +40,38 @@ This project explores dynamic CMOS logic for high-speed VLSI circuit design and 
 
 The schematic shows five inverter stages connected in a ring configuration to generate an oscillating output signal.
 
-![Five Stage Ring Oscillator Schematic](images/5stageringgcmosdy.png)
+![Five Stage Ring Oscillator Schematic](5stageringgcmosdy.png)
 
 ### 2. Five-Stage Ring Oscillator Layout
 
 The physical layout represents the implementation of the five-stage ring oscillator with VDD, GND, input and output connections.
 
-![Five Stage Ring Oscillator Layout](images/5str_lay.png)
+![Five Stage Ring Oscillator Layout](5str_lay.png)
 
 ### 3. Dynamic CMOS Circuit Schematic
 
 The dynamic CMOS circuit schematic shows the transistor-level implementation using PMOS and NMOS transistors with clock and input connections.
 
-![Dynamic CMOS Schematic](images/cmosdy.png)
+![Dynamic CMOS Schematic](cmosDy_sche.png)
 
 ### 4. Dynamic CMOS Layout
 
 The layout represents the physical implementation of the dynamic CMOS circuit, showing transistor regions, metal interconnections and supply connections.
 
-![Dynamic CMOS Layout](images/cmosDy_lay.png)
+![Dynamic CMOS Layout](cmosDy_lay.png)
 
 ## 📂 Project Structure
 
 ```text
 5G-Ring-Oscillator-Using-Dynamic-logic/
 │
-├── images/
-│   ├── 5stageringgcmosdy.png
-│   ├── 5str_lay.png
-│   ├── cmosdy.png
-│   └── cmosDy_lay.png
-│
+├── 5stageringgcmosdy.png
+├── 5stageringoscDYcmos.png
+├── 5str_lay.png
+├── 5str_sch_tb.png
+├── 5stringosc.png
+├── cmosDy_lay.png
+├── cmosDy_sche.png
+├── cmosDy_sym.png
 ├── cmosDynamic.zip
 └── README.md
-```
-
-## 📊 Expected Outcomes
-
-- Successful design of a five-stage ring oscillator.
-- Understanding of dynamic CMOS circuit operation.
-- Schematic and physical layout implementation.
-- Analysis of circuit behavior and oscillation characteristics.
-
-## 🚀 Applications
-
-- 5G Communication Systems
-- High-Speed Clock Generation
-- Frequency Generation Circuits
-- VLSI Systems
-- Integrated Circuit Design
-
-## 🔮 Future Scope
-
-- Optimize oscillation frequency.
-- Reduce power consumption.
-- Analyze propagation delay.
-- Perform post-layout simulation.
-- Compare dynamic CMOS and conventional CMOS implementations.
-
-## 👩‍💻 Author
-
-**K. Baby Navya**
-
-Electronics and Communication Engineering (ECE)
-
-## ⭐ Conclusion
-
-This project demonstrates the design and implementation of a five-stage ring oscillator using dynamic CMOS logic. The schematic and physical layout provide practical understanding of transistor-level circuit design and VLSI implementation for high-speed applications.
-
----
-
-If you find this project useful, don't forget to ⭐ the repository!
