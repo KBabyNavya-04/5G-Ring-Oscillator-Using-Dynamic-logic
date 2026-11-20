@@ -75,7 +75,7 @@ The layout represents the physical implementation of the dynamic CMOS circuit, s
 ├── cmosDy_sym.png
 ├── cmosDynamic.zip
 └── README.md
-🚀 Applications
+##🚀 Applications
 5G Communication Systems
 
 High-Speed Clock Generation
@@ -86,7 +86,7 @@ VLSI Systems
 
 Integrated Circuit Design
 
-🔮 Future Scope
+##🔮 Future Scope
 Optimize oscillation frequency.
 
 Reduce power consumption.
@@ -97,7 +97,7 @@ Perform post-layout simulation.
 
 Compare dynamic CMOS and conventional CMOS implementations.
 
-👩‍💻 Author
+##👩‍💻 Author
 K. Baby Navya
 
 Electronics and Communication Engineering (ECE)
