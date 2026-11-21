@@ -1,5 +1,17 @@
 # 5-Stage Ring Oscillator Using Dynamic Logic
 
+![VDD](https://img.shields.io/badge/VDD-1.8V-orange)
+![Technology](https://img.shields.io/badge/PDK-GPDK%20180nm-green)
+![EDA](https://img.shields.io/badge/EDA-Cadence%20Virtuoso%20IC6.1-blue)
+![Transistors](https://img.shields.io/badge/Transistors-208-blue)
+![Core Area](https://img.shields.io/badge/Core%20Area-1888%20µm²-blue)
+![DRC](https://img.shields.io/badge/Assura%20DRC-Clean-brightgreen)
+![LVS](https://img.shields.io/badge/Assura%20LVS-100%25%20Matched-brightgreen)
+![RC Extraction](https://img.shields.io/badge/RC%20Extraction-AV%20Extracted%20Clean-brightgreen)
+![Read Delay](https://img.shields.io/badge/tpd(read)-185.9%20ps-yellow)
+![Power](https://img.shields.io/badge/Pavg-79.71%20µW%20%40%20100MHz-red)
+![Verification](https://img.shields.io/badge/Verification-Fully%20Verified-brightgreen)
+
 ## 📌 Project Overview
 
 This project focuses on the design and implementation of a **5-Stage Ring Oscillator Using Dynamic CMOS Logic**.
