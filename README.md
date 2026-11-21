@@ -6,9 +6,6 @@
 ![VDD](https://img.shields.io/badge/VDD-1.0V-orange)
 ![DRC](https://img.shields.io/badge/Assura%20DRC-Clean-brightgreen)
 ![LVS](https://img.shields.io/badge/Assura%20LVS-Matched-brightgreen)
-![RC Extraction](https://img.shields.io/badge/RC%20Extraction-Pending-yellow)
-![Read Delay](https://img.shields.io/badge/Read%20Delay-Pending-yellow)
-![Average Power](https://img.shields.io/badge/Average%20Power-Pending-yellow)
 ![Verification](https://img.shields.io/badge/Verification-In%20Progress-orange)
 
 
