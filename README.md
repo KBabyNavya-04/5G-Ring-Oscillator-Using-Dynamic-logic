@@ -1,4 +1,4 @@
-# 5G Ring Oscillator Using Dynamic Logic
+# 5-Stage Ring Oscillator Using Dynamic Logic
 
 ## 📌 Project Overview
 
