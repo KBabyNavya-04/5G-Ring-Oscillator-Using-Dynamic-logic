@@ -90,10 +90,6 @@ Electronics and Communication Engineering (ECE)
 This project demonstrates the design and implementation of a five-stage ring oscillator using dynamic CMOS logic. The schematic and physical layout provide practical understanding of transistor-level circuit design and VLSI implementation for high-speed applications.
 
 ---
-
-If you find this project useful, don't forget to ⭐ the repository!
----
-
 If you find this project useful, don't forget to ⭐ the repository!
 
 
